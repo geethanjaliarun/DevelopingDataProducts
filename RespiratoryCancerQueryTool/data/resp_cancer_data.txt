@@ -1,0 +1,894 @@
+"Notes"	"Cancer Sites"	"Cancer Sites Code"	"Age Group"	"Age Group Code"	"Sex"	"Sex Code"	"Race"	"Race Code"	"Ethnicity"	"Ethnicity Code"	Count	Population	Crude Rate
+	"Respiratory System"	"22010-22060"	"< 1 year"	"1"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	20	3990767	0.50
+	"Respiratory System"	"22010-22060"	"< 1 year"	"1"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	28	5837558	0.48
+	"Respiratory System"	"22010-22060"	"< 1 year"	"1"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	138	14664864	0.94
+	"Respiratory System"	"22010-22060"	"< 1 year"	"1"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	25	4121421	0.61
+	"Respiratory System"	"22010-22060"	"< 1 year"	"1"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	36	6065343	0.59
+	"Respiratory System"	"22010-22060"	"< 1 year"	"1"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	193	15426985	1.25
+	"Respiratory System"	"22010-22060"	"1-4 years"	"1-4"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	49	15908167	0.31
+	"Respiratory System"	"22010-22060"	"1-4 years"	"1-4"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	59	22066067	0.27
+	"Respiratory System"	"22010-22060"	"1-4 years"	"1-4"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	198	59498357	0.33
+	"Respiratory System"	"22010-22060"	"1-4 years"	"1-4"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	36	16429628	0.22
+	"Respiratory System"	"22010-22060"	"1-4 years"	"1-4"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	54	23013396	0.23
+	"Respiratory System"	"22010-22060"	"1-4 years"	"1-4"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	193	62545821	0.31
+	"Respiratory System"	"22010-22060"	"5-9 years"	"5-9"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	22	25494284	0.09
+	"Respiratory System"	"22010-22060"	"5-9 years"	"5-9"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	72	77686472	0.09
+	"Respiratory System"	"22010-22060"	"5-9 years"	"5-9"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	16	21131337	0.08
+	"Respiratory System"	"22010-22060"	"5-9 years"	"5-9"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	17	26628872	0.06
+	"Respiratory System"	"22010-22060"	"5-9 years"	"5-9"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	87	81863203	0.11
+	"Respiratory System"	"22010-22060"	"10-14 years"	"10-14"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	33	21789453	0.15
+	"Respiratory System"	"22010-22060"	"10-14 years"	"10-14"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	33	24458225	0.13
+	"Respiratory System"	"22010-22060"	"10-14 years"	"10-14"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	85	83288890	0.10
+	"Respiratory System"	"22010-22060"	"10-14 years"	"10-14"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	29	22522667	0.13
+	"Respiratory System"	"22010-22060"	"10-14 years"	"10-14"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	38	25584511	0.15
+	"Respiratory System"	"22010-22060"	"10-14 years"	"10-14"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	145	87937808	0.16
+	"Respiratory System"	"22010-22060"	"15-19 years"	"15-19"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	52	21954753	0.24
+	"Respiratory System"	"22010-22060"	"15-19 years"	"15-19"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	44	23172123	0.19
+	"Respiratory System"	"22010-22060"	"15-19 years"	"15-19"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	216	86376429	0.25
+	"Respiratory System"	"22010-22060"	"15-19 years"	"15-19"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	37	6941880	0.53
+	"Respiratory System"	"22010-22060"	"15-19 years"	"15-19"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	86	22651117	0.38
+	"Respiratory System"	"22010-22060"	"15-19 years"	"15-19"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	145	25515649	0.57
+	"Respiratory System"	"22010-22060"	"15-19 years"	"15-19"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	348	91062897	0.38
+	"Respiratory System"	"22010-22060"	"20-24 years"	"20-24"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	24	7734116	0.31
+	"Respiratory System"	"22010-22060"	"20-24 years"	"20-24"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	90	20446255	0.44
+	"Respiratory System"	"22010-22060"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	110	22741944	0.48
+	"Respiratory System"	"22010-22060"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	403	84979293	0.47
+	"Respiratory System"	"22010-22060"	"20-24 years"	"20-24"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	60	7828512	0.77
+	"Respiratory System"	"22010-22060"	"20-24 years"	"20-24"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	120	20004627	0.60
+	"Respiratory System"	"22010-22060"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	231	26860662	0.86
+	"Respiratory System"	"22010-22060"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	607	87347663	0.69
+	"Respiratory System"	"22010-22060"	"25-29 years"	"25-29"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	65	9006517	0.72
+	"Respiratory System"	"22010-22060"	"25-29 years"	"25-29"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	143	18868634	0.76
+	"Respiratory System"	"22010-22060"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	151	22941084	0.66
+	"Respiratory System"	"22010-22060"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	690	81912125	0.84
+	"Respiratory System"	"22010-22060"	"25-29 years"	"25-29"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	73	8378616	0.87
+	"Respiratory System"	"22010-22060"	"25-29 years"	"25-29"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	168	17167942	0.98
+	"Respiratory System"	"22010-22060"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	291	26566454	1.10
+	"Respiratory System"	"22010-22060"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	958	82857754	1.16
+	"Respiratory System"	"22010-22060"	"30-34 years"	"30-34"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	21	1155690	1.82
+	"Respiratory System"	"22010-22060"	"30-34 years"	"30-34"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	141	9107824	1.55
+	"Respiratory System"	"22010-22060"	"30-34 years"	"30-34"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	301	18662644	1.61
+	"Respiratory System"	"22010-22060"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	268	22303145	1.20
+	"Respiratory System"	"22010-22060"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	1591	84049066	1.89
+	"Respiratory System"	"22010-22060"	"30-34 years"	"30-34"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	27	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"30-34 years"	"30-34"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	155	8348415	1.86
+	"Respiratory System"	"22010-22060"	"30-34 years"	"30-34"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	376	16694766	2.25
+	"Respiratory System"	"22010-22060"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	373	24862338	1.50
+	"Respiratory System"	"22010-22060"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	1740	85346899	2.04
+	"Respiratory System"	"22010-22060"	"30-34 years"	"30-34"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	33	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"35-39 years"	"35-39"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	43	1203824	3.57
+	"Respiratory System"	"22010-22060"	"35-39 years"	"35-39"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	298	8785090	3.39
+	"Respiratory System"	"22010-22060"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	924	19274947	4.79
+	"Respiratory System"	"22010-22060"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	542	20874612	2.60
+	"Respiratory System"	"22010-22060"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	4868	92649394	5.25
+	"Respiratory System"	"22010-22060"	"35-39 years"	"35-39"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	36	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"35-39 years"	"35-39"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	37	1155268	3.20
+	"Respiratory System"	"22010-22060"	"35-39 years"	"35-39"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	322	8026084	4.01
+	"Respiratory System"	"22010-22060"	"35-39 years"	"35-39"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	20	977081	2.05
+	"Respiratory System"	"22010-22060"	"35-39 years"	"35-39"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	985	17096494	5.76
+	"Respiratory System"	"22010-22060"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	642	22474886	2.86
+	"Respiratory System"	"22010-22060"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	4910	93367478	5.26
+	"Respiratory System"	"22010-22060"	"35-39 years"	"35-39"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	48	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"40-44 years"	"40-44"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	116	1274681	9.10
+	"Respiratory System"	"22010-22060"	"40-44 years"	"40-44"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	568	8119223	7.00
+	"Respiratory System"	"22010-22060"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	42	932589	4.50
+	"Respiratory System"	"22010-22060"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	3201	19765691	16.19
+	"Respiratory System"	"22010-22060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	1159	18543430	6.25
+	"Respiratory System"	"22010-22060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	15389	102849574	14.96
+	"Respiratory System"	"22010-22060"	"40-44 years"	"40-44"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	20	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"40-44 years"	"40-44"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	85	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"40-44 years"	"40-44"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	137	1191814	11.50
+	"Respiratory System"	"22010-22060"	"40-44 years"	"40-44"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	640	7312907	8.75
+	"Respiratory System"	"22010-22060"	"40-44 years"	"40-44"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	42	846216	4.96
+	"Respiratory System"	"22010-22060"	"40-44 years"	"40-44"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	3897	17530687	22.23
+	"Respiratory System"	"22010-22060"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	1331	19529364	6.82
+	"Respiratory System"	"22010-22060"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	16025	102841804	15.58
+	"Respiratory System"	"22010-22060"	"40-44 years"	"40-44"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	30	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"40-44 years"	"40-44"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	119	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"45-49 years"	"45-49"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	310	1260018	24.60
+	"Respiratory System"	"22010-22060"	"45-49 years"	"45-49"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	25	230527	10.84
+	"Respiratory System"	"22010-22060"	"45-49 years"	"45-49"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	1045	7475406	13.98
+	"Respiratory System"	"22010-22060"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	84	793363	10.59
+	"Respiratory System"	"22010-22060"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	7303	19002859	38.43
+	"Respiratory System"	"22010-22060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	2047	15627590	13.10
+	"Respiratory System"	"22010-22060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	35861	107275921	33.43
+	"Respiratory System"	"22010-22060"	"45-49 years"	"45-49"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	42	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"45-49 years"	"45-49"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	151	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"45-49 years"	"45-49"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	281	1163592	24.15
+	"Respiratory System"	"22010-22060"	"45-49 years"	"45-49"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	28	217297	12.89
+	"Respiratory System"	"22010-22060"	"45-49 years"	"45-49"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	1252	6607416	18.95
+	"Respiratory System"	"22010-22060"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	129	711521	18.13
+	"Respiratory System"	"22010-22060"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	9967	16747555	59.51
+	"Respiratory System"	"22010-22060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	2479	15937222	15.55
+	"Respiratory System"	"22010-22060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	40905	106235065	38.50
+	"Respiratory System"	"22010-22060"	"45-49 years"	"45-49"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	64	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"45-49 years"	"45-49"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	230	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"50-54 years"	"50-54"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	493	1125465	43.80
+	"Respiratory System"	"22010-22060"	"50-54 years"	"50-54"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	24	180640	13.29
+	"Respiratory System"	"22010-22060"	"50-54 years"	"50-54"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	1681	6678615	25.17
+	"Respiratory System"	"22010-22060"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	134	630653	21.25
+	"Respiratory System"	"22010-22060"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	11544	16910792	68.26
+	"Respiratory System"	"22010-22060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	3171	12604200	25.16
+	"Respiratory System"	"22010-22060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	62771	103781807	60.48
+	"Respiratory System"	"22010-22060"	"50-54 years"	"50-54"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	55	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"50-54 years"	"50-54"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	218	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"50-54 years"	"50-54"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic"	"2135-2"	18	360538	4.99
+	"Respiratory System"	"22010-22060"	"50-54 years"	"50-54"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	578	1029345	56.15
+	"Respiratory System"	"22010-22060"	"50-54 years"	"50-54"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	41	165992	24.70
+	"Respiratory System"	"22010-22060"	"50-54 years"	"50-54"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	2173	5756437	37.75
+	"Respiratory System"	"22010-22060"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	198	565665	35.00
+	"Respiratory System"	"22010-22060"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	18447	14657560	125.85
+	"Respiratory System"	"22010-22060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	4530	12315825	36.78
+	"Respiratory System"	"22010-22060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	81298	101619711	80.00
+	"Respiratory System"	"22010-22060"	"50-54 years"	"50-54"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	108	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"50-54 years"	"50-54"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	408	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"55-59 years"	"55-59"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	711	890853	79.81
+	"Respiratory System"	"22010-22060"	"55-59 years"	"55-59"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	35	128636	27.21
+	"Respiratory System"	"22010-22060"	"55-59 years"	"55-59"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	2279	5466810	41.69
+	"Respiratory System"	"22010-22060"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	180	457179	39.37
+	"Respiratory System"	"22010-22060"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	14565	13557258	107.43
+	"Respiratory System"	"22010-22060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	4168	9735351	42.81
+	"Respiratory System"	"22010-22060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	95869	91952736	104.26
+	"Respiratory System"	"22010-22060"	"55-59 years"	"55-59"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	70	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"55-59 years"	"55-59"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	354	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"55-59 years"	"55-59"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic"	"2135-2"	23	241498	9.52
+	"Respiratory System"	"22010-22060"	"55-59 years"	"55-59"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	895	814265	109.92
+	"Respiratory System"	"22010-22060"	"55-59 years"	"55-59"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	54	113953	47.39
+	"Respiratory System"	"22010-22060"	"55-59 years"	"55-59"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	3131	4626239	67.68
+	"Respiratory System"	"22010-22060"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	262	400114	65.48
+	"Respiratory System"	"22010-22060"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	25455	11368986	223.90
+	"Respiratory System"	"22010-22060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	6446	9028052	71.40
+	"Respiratory System"	"22010-22060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	130852	88477215	147.89
+	"Respiratory System"	"22010-22060"	"55-59 years"	"55-59"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	135	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"55-59 years"	"55-59"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	598	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"60-64 years "	"60-64"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	954	657947	145.00
+	"Respiratory System"	"22010-22060"	"60-64 years "	"60-64"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	30	89300	33.59
+	"Respiratory System"	"22010-22060"	"60-64 years "	"60-64"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	2708	4173527	64.89
+	"Respiratory System"	"22010-22060"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	200	331463	60.34
+	"Respiratory System"	"22010-22060"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	16835	10362896	162.45
+	"Respiratory System"	"22010-22060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	5329	7346564	72.54
+	"Respiratory System"	"22010-22060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	135987	76721518	177.25
+	"Respiratory System"	"22010-22060"	"60-64 years "	"60-64"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	70	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"60-64 years "	"60-64"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	447	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"60-64 years "	"60-64"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic"	"2135-2"	27	154306	17.50
+	"Respiratory System"	"22010-22060"	"60-64 years "	"60-64"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	1126	604053	186.41
+	"Respiratory System"	"22010-22060"	"60-64 years "	"60-64"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	71	75281	94.31
+	"Respiratory System"	"22010-22060"	"60-64 years "	"60-64"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	4165	3530564	117.97
+	"Respiratory System"	"22010-22060"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	285	274740	103.73
+	"Respiratory System"	"22010-22060"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	29032	8330302	348.51
+	"Respiratory System"	"22010-22060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	8371	6455309	129.68
+	"Respiratory System"	"22010-22060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	182977	72111393	253.74
+	"Respiratory System"	"22010-22060"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	136	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	771	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"65-69 years"	"65-69"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Hispanic"	"2135-2"	22	107961	20.38
+	"Respiratory System"	"22010-22060"	"65-69 years"	"65-69"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	1106	468739	235.95
+	"Respiratory System"	"22010-22060"	"65-69 years"	"65-69"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	58	62340	93.04
+	"Respiratory System"	"22010-22060"	"65-69 years"	"65-69"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	3410	3124143	109.15
+	"Respiratory System"	"22010-22060"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	226	245436	92.08
+	"Respiratory System"	"22010-22060"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	18694	7993587	233.86
+	"Respiratory System"	"22010-22060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	6555	5620038	116.64
+	"Respiratory System"	"22010-22060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	174320	62388288	279.41
+	"Respiratory System"	"22010-22060"	"65-69 years"	"65-69"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	107	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"65-69 years"	"65-69"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	551	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"65-69 years"	"65-69"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic"	"2135-2"	18	96065	18.74
+	"Respiratory System"	"22010-22060"	"65-69 years"	"65-69"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	1280	417148	306.85
+	"Respiratory System"	"22010-22060"	"65-69 years"	"65-69"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	85	50574	168.07
+	"Respiratory System"	"22010-22060"	"65-69 years"	"65-69"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	4973	2599489	191.31
+	"Respiratory System"	"22010-22060"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	299	189251	157.99
+	"Respiratory System"	"22010-22060"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	29960	6064769	494.00
+	"Respiratory System"	"22010-22060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	10405	4628825	224.79
+	"Respiratory System"	"22010-22060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	228305	56303271	405.49
+	"Respiratory System"	"22010-22060"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	167	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	816	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"70-74 years"	"70-74"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	968	338665	285.83
+	"Respiratory System"	"22010-22060"	"70-74 years"	"70-74"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	50	46456	107.63
+	"Respiratory System"	"22010-22060"	"70-74 years"	"70-74"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	3795	2429973	156.17
+	"Respiratory System"	"22010-22060"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	188	183253	102.59
+	"Respiratory System"	"22010-22060"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	17999	6369018	282.60
+	"Respiratory System"	"22010-22060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	6901	4413548	156.36
+	"Respiratory System"	"22010-22060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	191488	53818621	355.80
+	"Respiratory System"	"22010-22060"	"70-74 years"	"70-74"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	115	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"70-74 years"	"70-74"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	584	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"70-74 years"	"70-74"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic"	"2135-2"	36	62040	58.03
+	"Respiratory System"	"22010-22060"	"70-74 years"	"70-74"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	1248	279022	447.28
+	"Respiratory System"	"22010-22060"	"70-74 years"	"70-74"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	82	33577	244.21
+	"Respiratory System"	"22010-22060"	"70-74 years"	"70-74"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	5427	1906756	284.62
+	"Respiratory System"	"22010-22060"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	285	131035	217.50
+	"Respiratory System"	"22010-22060"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	26653	4426405	602.14
+	"Respiratory System"	"22010-22060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	10788	3393381	317.91
+	"Respiratory System"	"22010-22060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	245221	45336062	540.90
+	"Respiratory System"	"22010-22060"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	175	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	857	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"75-79 years"	"75-79"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	777	239360	324.62
+	"Respiratory System"	"22010-22060"	"75-79 years"	"75-79"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	49	32493	150.80
+	"Respiratory System"	"22010-22060"	"75-79 years"	"75-79"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	3478	1807740	192.39
+	"Respiratory System"	"22010-22060"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	191	132462	144.19
+	"Respiratory System"	"22010-22060"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	15561	4993203	311.64
+	"Respiratory System"	"22010-22060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	6371	3328288	191.42
+	"Respiratory System"	"22010-22060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	185078	48040457	385.25
+	"Respiratory System"	"22010-22060"	"75-79 years"	"75-79"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	96	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"75-79 years"	"75-79"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	560	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"75-79 years"	"75-79"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	913	175973	518.83
+	"Respiratory System"	"22010-22060"	"75-79 years"	"75-79"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	67	21520	311.34
+	"Respiratory System"	"22010-22060"	"75-79 years"	"75-79"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	5194	1316074	394.66
+	"Respiratory System"	"22010-22060"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	237	83543	283.69
+	"Respiratory System"	"22010-22060"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	21055	3061403	687.76
+	"Respiratory System"	"22010-22060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	9783	2380917	410.89
+	"Respiratory System"	"22010-22060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	227288	36240169	627.17
+	"Respiratory System"	"22010-22060"	"75-79 years"	"75-79"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	136	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"75-79 years"	"75-79"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	738	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"80-84 years"	"80-84"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	481	155568	309.19
+	"Respiratory System"	"22010-22060"	"80-84 years"	"80-84"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	40	20319	196.86
+	"Respiratory System"	"22010-22060"	"80-84 years"	"80-84"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	2586	1195845	216.25
+	"Respiratory System"	"22010-22060"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	121	87413	138.42
+	"Respiratory System"	"22010-22060"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	10285	3516339	292.49
+	"Respiratory System"	"22010-22060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	4498	2220716	202.55
+	"Respiratory System"	"22010-22060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	136733	39095815	349.74
+	"Respiratory System"	"22010-22060"	"80-84 years"	"80-84"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	67	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"80-84 years"	"80-84"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	413	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"80-84 years"	"80-84"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	512	98122	521.80
+	"Respiratory System"	"22010-22060"	"80-84 years"	"80-84"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	38	12391	306.67
+	"Respiratory System"	"22010-22060"	"80-84 years"	"80-84"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	3698	806437	458.56
+	"Respiratory System"	"22010-22060"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	131	47963	273.13
+	"Respiratory System"	"22010-22060"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	12628	1827074	691.16
+	"Respiratory System"	"22010-22060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	6524	1437916	453.71
+	"Respiratory System"	"22010-22060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	157379	25122990	626.43
+	"Respiratory System"	"22010-22060"	"80-84 years"	"80-84"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	84	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"80-84 years"	"80-84"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	503	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"85+ years"	"85+"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	333	136631	243.72
+	"Respiratory System"	"22010-22060"	"85+ years"	"85+"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	16	16432	97.37
+	"Respiratory System"	"22010-22060"	"85+ years"	"85+"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	2004	963574	207.98
+	"Respiratory System"	"22010-22060"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	81	74253	109.09
+	"Respiratory System"	"22010-22060"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	7348	3365184	218.35
+	"Respiratory System"	"22010-22060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	3477	1851846	187.76
+	"Respiratory System"	"22010-22060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	97022	39901315	243.15
+	"Respiratory System"	"22010-22060"	"85+ years"	"85+"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	50	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"85+ years"	"85+"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	443	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"85+ years"	"85+"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	278	64516	430.90
+	"Respiratory System"	"22010-22060"	"85+ years"	"85+"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	27	9819	274.98
+	"Respiratory System"	"22010-22060"	"85+ years"	"85+"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	2460	576826	426.47
+	"Respiratory System"	"22010-22060"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	53	33126	160.00
+	"Respiratory System"	"22010-22060"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	7190	1265469	568.17
+	"Respiratory System"	"22010-22060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	4044	953313	424.20
+	"Respiratory System"	"22010-22060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	94089	18102317	519.76
+	"Respiratory System"	"22010-22060"	"85+ years"	"85+"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	49	Not Applicable	Not Applicable
+	"Respiratory System"	"22010-22060"	"85+ years"	"85+"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	368	Not Applicable	Not Applicable
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"1-4 years"	"1-4"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	27	59498357	0.05
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"1-4 years"	"1-4"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	35	62545821	0.06
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"5-9 years"	"5-9"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	21	77686472	0.03
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"5-9 years"	"5-9"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	27	81863203	0.03
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"10-14 years"	"10-14"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	31	83288890	0.04
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"10-14 years"	"10-14"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	44	87937808	0.05
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"15-19 years"	"15-19"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	57	86376429	0.07
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"15-19 years"	"15-19"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	30	22651117	0.13
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"15-19 years"	"15-19"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	17	25515649	0.07
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"15-19 years"	"15-19"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	83	91062897	0.09
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"20-24 years"	"20-24"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	20	20446255	0.10
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	16	22741944	0.07
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	63	84979293	0.07
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	26	26860662	0.10
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	83	87347663	0.10
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"25-29 years"	"25-29"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	19	18868634	0.10
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	18	22941084	0.08
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	71	81912125	0.09
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"25-29 years"	"25-29"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	29	17167942	0.17
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	38	26566454	0.14
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	97	82857754	0.12
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"30-34 years"	"30-34"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	33	18662644	0.18
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	40	22303145	0.18
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	141	84049066	0.17
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"30-34 years"	"30-34"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	25	8348415	0.30
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"30-34 years"	"30-34"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	40	16694766	0.24
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	46	24862338	0.19
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	173	85346899	0.20
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"35-39 years"	"35-39"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	20	8785090	0.23
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	49	19274947	0.25
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	39	20874612	0.19
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	191	92649394	0.21
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"35-39 years"	"35-39"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	18	8026084	0.22
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"35-39 years"	"35-39"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	66	17096494	0.39
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	71	22474886	0.32
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	298	93367478	0.32
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"40-44 years"	"40-44"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	22	8119223	0.27
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	97	19765691	0.49
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	61	18543430	0.33
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	312	102849574	0.30
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"40-44 years"	"40-44"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	47	7312907	0.64
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"40-44 years"	"40-44"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	121	17530687	0.69
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	99	19529364	0.51
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	531	102841804	0.52
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"45-49 years"	"45-49"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	23	7475406	0.31
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	91	19002859	0.48
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	67	15627590	0.43
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	507	107275921	0.47
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"45-49 years"	"45-49"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	49	6607416	0.74
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	166	16747555	0.99
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	99	15937222	0.62
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	890	106235065	0.84
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"50-54 years"	"50-54"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	37	6678615	0.55
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	125	16910792	0.74
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	66	12604200	0.52
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	641	103781807	0.62
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"50-54 years"	"50-54"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	59	5756437	1.02
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	199	14657560	1.36
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	131	12315825	1.06
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	1268	101619711	1.25
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"50-54 years"	"50-54"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	16	Not Applicable	Not Applicable
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"55-59 years"	"55-59"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	47	5466810	0.86
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	107	13557258	0.79
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	80	9735351	0.82
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	797	91952736	0.87
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"55-59 years"	"55-59"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	59	4626239	1.28
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	210	11368986	1.85
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	113	9028052	1.25
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	1628	88477215	1.84
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"55-59 years"	"55-59"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	26	Not Applicable	Not Applicable
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"60-64 years "	"60-64"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	39	4173527	0.93
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	101	10362896	0.97
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	75	7346564	1.02
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	899	76721518	1.17
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"60-64 years "	"60-64"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	62	3530564	1.76
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	221	8330302	2.65
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	139	6455309	2.15
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	1696	72111393	2.35
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	22	Not Applicable	Not Applicable
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"65-69 years"	"65-69"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	37	3124143	1.18
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	102	7993587	1.28
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	80	5620038	1.42
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	1043	62388288	1.67
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"65-69 years"	"65-69"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	17	Not Applicable	Not Applicable
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"65-69 years"	"65-69"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	76	2599489	2.92
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	173	6064769	2.85
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	132	4628825	2.85
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	1685	56303271	2.99
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	17	Not Applicable	Not Applicable
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"70-74 years"	"70-74"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	46	2429973	1.89
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	85	6369018	1.33
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	80	4413548	1.81
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	1086	53818621	2.02
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"70-74 years"	"70-74"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	37	1906756	1.94
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	142	4426405	3.21
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	133	3393381	3.92
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	1668	45336062	3.68
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"75-79 years"	"75-79"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	36	1807740	1.99
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	115	4993203	2.30
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	62	3328288	1.86
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	1140	48040457	2.37
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"75-79 years"	"75-79"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	38	1316074	2.89
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	114	3061403	3.72
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	104	2380917	4.37
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	1436	36240169	3.96
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"80-84 years"	"80-84"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	23	1195845	1.92
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	69	3516339	1.96
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	57	2220716	2.57
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	1074	39095815	2.75
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"80-84 years"	"80-84"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	22	806437	2.73
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	56	1827074	3.07
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	71	1437916	4.94
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	1085	25122990	4.32
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"85+ years"	"85+"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	21	963574	2.18
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	84	3365184	2.50
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	54	1851846	2.92
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	1165	39901315	2.92
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	40	1265469	3.16
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	42	953313	4.41
+	"Nose, Nasal Cavity and Middle Ear"	"22010"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	814	18102317	4.50
+	"Larynx"	"22020"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	34	84979293	0.04
+	"Larynx"	"22020"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	28	87347663	0.03
+	"Larynx"	"22020"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	54	81912125	0.07
+	"Larynx"	"22020"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	62	82857754	0.07
+	"Larynx"	"22020"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	24	22303145	0.11
+	"Larynx"	"22020"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	139	84049066	0.17
+	"Larynx"	"22020"	"30-34 years"	"30-34"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	22	16694766	0.13
+	"Larynx"	"22020"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	27	24862338	0.11
+	"Larynx"	"22020"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	179	85346899	0.21
+	"Larynx"	"22020"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	56	19274947	0.29
+	"Larynx"	"22020"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	40	20874612	0.19
+	"Larynx"	"22020"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	298	92649394	0.32
+	"Larynx"	"22020"	"35-39 years"	"35-39"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	17	8026084	0.21
+	"Larynx"	"22020"	"35-39 years"	"35-39"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	105	17096494	0.61
+	"Larynx"	"22020"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	83	22474886	0.37
+	"Larynx"	"22020"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	623	93367478	0.67
+	"Larynx"	"22020"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	181	19765691	0.92
+	"Larynx"	"22020"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	59	18543430	0.32
+	"Larynx"	"22020"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	862	102849574	0.84
+	"Larynx"	"22020"	"40-44 years"	"40-44"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	20	1191814	1.68
+	"Larynx"	"22020"	"40-44 years"	"40-44"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	30	7312907	0.41
+	"Larynx"	"22020"	"40-44 years"	"40-44"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	500	17530687	2.85
+	"Larynx"	"22020"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	229	19529364	1.17
+	"Larynx"	"22020"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	2164	102841804	2.10
+	"Larynx"	"22020"	"40-44 years"	"40-44"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	19	Not Applicable	Not Applicable
+	"Larynx"	"22020"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	430	19002859	2.26
+	"Larynx"	"22020"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	97	15627590	0.62
+	"Larynx"	"22020"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	1823	107275921	1.70
+	"Larynx"	"22020"	"45-49 years"	"45-49"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	37	1163592	3.18
+	"Larynx"	"22020"	"45-49 years"	"45-49"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	95	6607416	1.44
+	"Larynx"	"22020"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	17	711521	2.39
+	"Larynx"	"22020"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	1354	16747555	8.08
+	"Larynx"	"22020"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	493	15937222	3.09
+	"Larynx"	"22020"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	5621	106235065	5.29
+	"Larynx"	"22020"	"45-49 years"	"45-49"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	17	Not Applicable	Not Applicable
+	"Larynx"	"22020"	"45-49 years"	"45-49"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	47	Not Applicable	Not Applicable
+	"Larynx"	"22020"	"50-54 years"	"50-54"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	28	1125465	2.49
+	"Larynx"	"22020"	"50-54 years"	"50-54"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	24	6678615	0.36
+	"Larynx"	"22020"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	665	16910792	3.93
+	"Larynx"	"22020"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	157	12604200	1.25
+	"Larynx"	"22020"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	2865	103781807	2.76
+	"Larynx"	"22020"	"50-54 years"	"50-54"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	73	1029345	7.09
+	"Larynx"	"22020"	"50-54 years"	"50-54"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	147	5756437	2.55
+	"Larynx"	"22020"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	24	565665	4.24
+	"Larynx"	"22020"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	2447	14657560	16.69
+	"Larynx"	"22020"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	804	12315825	6.53
+	"Larynx"	"22020"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	10418	101619711	10.25
+	"Larynx"	"22020"	"50-54 years"	"50-54"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	25	Not Applicable	Not Applicable
+	"Larynx"	"22020"	"50-54 years"	"50-54"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	88	Not Applicable	Not Applicable
+	"Larynx"	"22020"	"55-59 years"	"55-59"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	25	890853	2.81
+	"Larynx"	"22020"	"55-59 years"	"55-59"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	29	5466810	0.53
+	"Larynx"	"22020"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	795	13557258	5.86
+	"Larynx"	"22020"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	157	9735351	1.61
+	"Larynx"	"22020"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	3739	91952736	4.07
+	"Larynx"	"22020"	"55-59 years"	"55-59"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	90	814265	11.05
+	"Larynx"	"22020"	"55-59 years"	"55-59"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	208	4626239	4.50
+	"Larynx"	"22020"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	43	400114	10.75
+	"Larynx"	"22020"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	3188	11368986	28.04
+	"Larynx"	"22020"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	1019	9028052	11.29
+	"Larynx"	"22020"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	14542	88477215	16.44
+	"Larynx"	"22020"	"55-59 years"	"55-59"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	25	Not Applicable	Not Applicable
+	"Larynx"	"22020"	"55-59 years"	"55-59"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	102	Not Applicable	Not Applicable
+	"Larynx"	"22020"	"60-64 years "	"60-64"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	37	657947	5.62
+	"Larynx"	"22020"	"60-64 years "	"60-64"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	40	4173527	0.96
+	"Larynx"	"22020"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	745	10362896	7.19
+	"Larynx"	"22020"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	219	7346564	2.98
+	"Larynx"	"22020"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	4288	76721518	5.59
+	"Larynx"	"22020"	"60-64 years "	"60-64"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	25	Not Applicable	Not Applicable
+	"Larynx"	"22020"	"60-64 years "	"60-64"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	110	604053	18.21
+	"Larynx"	"22020"	"60-64 years "	"60-64"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	236	3530564	6.68
+	"Larynx"	"22020"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	41	274740	14.92
+	"Larynx"	"22020"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	3343	8330302	40.13
+	"Larynx"	"22020"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	1201	6455309	18.60
+	"Larynx"	"22020"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	16695	72111393	23.15
+	"Larynx"	"22020"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	21	Not Applicable	Not Applicable
+	"Larynx"	"22020"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	120	Not Applicable	Not Applicable
+	"Larynx"	"22020"	"65-69 years"	"65-69"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	28	468739	5.97
+	"Larynx"	"22020"	"65-69 years"	"65-69"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	40	3124143	1.28
+	"Larynx"	"22020"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	731	7993587	9.14
+	"Larynx"	"22020"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	187	5620038	3.33
+	"Larynx"	"22020"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	4405	62388288	7.06
+	"Larynx"	"22020"	"65-69 years"	"65-69"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	27	Not Applicable	Not Applicable
+	"Larynx"	"22020"	"65-69 years"	"65-69"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	97	417148	23.25
+	"Larynx"	"22020"	"65-69 years"	"65-69"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	252	2599489	9.69
+	"Larynx"	"22020"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	36	189251	19.02
+	"Larynx"	"22020"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	2896	6064769	47.75
+	"Larynx"	"22020"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	1229	4628825	26.55
+	"Larynx"	"22020"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	16954	56303271	30.11
+	"Larynx"	"22020"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	27	Not Applicable	Not Applicable
+	"Larynx"	"22020"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	109	Not Applicable	Not Applicable
+	"Larynx"	"22020"	"70-74 years"	"70-74"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	36	2429973	1.48
+	"Larynx"	"22020"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	504	6369018	7.91
+	"Larynx"	"22020"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	163	4413548	3.69
+	"Larynx"	"22020"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	3817	53818621	7.09
+	"Larynx"	"22020"	"70-74 years"	"70-74"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	16	Not Applicable	Not Applicable
+	"Larynx"	"22020"	"70-74 years"	"70-74"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	77	279022	27.60
+	"Larynx"	"22020"	"70-74 years"	"70-74"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	256	1906756	13.43
+	"Larynx"	"22020"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	36	131035	27.47
+	"Larynx"	"22020"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	2164	4426405	48.89
+	"Larynx"	"22020"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	1110	3393381	32.71
+	"Larynx"	"22020"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	14811	45336062	32.67
+	"Larynx"	"22020"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	25	Not Applicable	Not Applicable
+	"Larynx"	"22020"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	94	Not Applicable	Not Applicable
+	"Larynx"	"22020"	"75-79 years"	"75-79"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	29	1807740	1.60
+	"Larynx"	"22020"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	372	4993203	7.45
+	"Larynx"	"22020"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	116	3328288	3.49
+	"Larynx"	"22020"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	2936	48040457	6.11
+	"Larynx"	"22020"	"75-79 years"	"75-79"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	46	175973	26.14
+	"Larynx"	"22020"	"75-79 years"	"75-79"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	196	1316074	14.89
+	"Larynx"	"22020"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	1483	3061403	48.44
+	"Larynx"	"22020"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	790	2380917	33.18
+	"Larynx"	"22020"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	11806	36240169	32.58
+	"Larynx"	"22020"	"75-79 years"	"75-79"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	71	Not Applicable	Not Applicable
+	"Larynx"	"22020"	"80-84 years"	"80-84"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	22	1195845	1.84
+	"Larynx"	"22020"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	197	3516339	5.60
+	"Larynx"	"22020"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	84	2220716	3.78
+	"Larynx"	"22020"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	1814	39095815	4.64
+	"Larynx"	"22020"	"80-84 years"	"80-84"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	27	98122	27.52
+	"Larynx"	"22020"	"80-84 years"	"80-84"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	148	806437	18.35
+	"Larynx"	"22020"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	828	1827074	45.32
+	"Larynx"	"22020"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	480	1437916	33.38
+	"Larynx"	"22020"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	7583	25122990	30.18
+	"Larynx"	"22020"	"80-84 years"	"80-84"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	42	Not Applicable	Not Applicable
+	"Larynx"	"22020"	"85+ years"	"85+"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	21	963574	2.18
+	"Larynx"	"22020"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	120	3365184	3.57
+	"Larynx"	"22020"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	57	1851846	3.08
+	"Larynx"	"22020"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	1192	39901315	2.99
+	"Larynx"	"22020"	"85+ years"	"85+"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	18	64516	27.90
+	"Larynx"	"22020"	"85+ years"	"85+"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	93	576826	16.12
+	"Larynx"	"22020"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	422	1265469	33.35
+	"Larynx"	"22020"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	332	953313	34.83
+	"Larynx"	"22020"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	4698	18102317	25.95
+	"Larynx"	"22020"	"85+ years"	"85+"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	28	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"< 1 year"	"1"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	26	15426985	0.17
+	"Lung and Bronchus"	"22030"	"1-4 years"	"1-4"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	33	59498357	0.06
+	"Lung and Bronchus"	"22030"	"1-4 years"	"1-4"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	39	62545821	0.06
+	"Lung and Bronchus"	"22030"	"5-9 years"	"5-9"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	19	77686472	0.02
+	"Lung and Bronchus"	"22030"	"5-9 years"	"5-9"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	16	81863203	0.02
+	"Lung and Bronchus"	"22030"	"10-14 years"	"10-14"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	34	83288890	0.04
+	"Lung and Bronchus"	"22030"	"10-14 years"	"10-14"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	51	87937808	0.06
+	"Lung and Bronchus"	"22030"	"15-19 years"	"15-19"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	32	21954753	0.15
+	"Lung and Bronchus"	"22030"	"15-19 years"	"15-19"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	24	23172123	0.10
+	"Lung and Bronchus"	"22030"	"15-19 years"	"15-19"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	125	86376429	0.14
+	"Lung and Bronchus"	"22030"	"15-19 years"	"15-19"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	32	22651117	0.14
+	"Lung and Bronchus"	"22030"	"15-19 years"	"15-19"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	36	25515649	0.14
+	"Lung and Bronchus"	"22030"	"15-19 years"	"15-19"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	149	91062897	0.16
+	"Lung and Bronchus"	"22030"	"20-24 years"	"20-24"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	62	20446255	0.30
+	"Lung and Bronchus"	"22030"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	74	22741944	0.33
+	"Lung and Bronchus"	"22030"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	280	84979293	0.33
+	"Lung and Bronchus"	"22030"	"20-24 years"	"20-24"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	68	20004627	0.34
+	"Lung and Bronchus"	"22030"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	66	26860662	0.25
+	"Lung and Bronchus"	"22030"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	279	87347663	0.32
+	"Lung and Bronchus"	"22030"	"25-29 years"	"25-29"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	57	9006517	0.63
+	"Lung and Bronchus"	"22030"	"25-29 years"	"25-29"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	107	18868634	0.57
+	"Lung and Bronchus"	"22030"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	111	22941084	0.48
+	"Lung and Bronchus"	"22030"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	544	81912125	0.66
+	"Lung and Bronchus"	"22030"	"25-29 years"	"25-29"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	39	8378616	0.47
+	"Lung and Bronchus"	"22030"	"25-29 years"	"25-29"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	99	17167942	0.58
+	"Lung and Bronchus"	"22030"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	123	26566454	0.46
+	"Lung and Bronchus"	"22030"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	533	82857754	0.64
+	"Lung and Bronchus"	"22030"	"30-34 years"	"30-34"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	18	1155690	1.56
+	"Lung and Bronchus"	"22030"	"30-34 years"	"30-34"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	120	9107824	1.32
+	"Lung and Bronchus"	"22030"	"30-34 years"	"30-34"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	249	18662644	1.33
+	"Lung and Bronchus"	"22030"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	197	22303145	0.88
+	"Lung and Bronchus"	"22030"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	1278	84049066	1.52
+	"Lung and Bronchus"	"22030"	"30-34 years"	"30-34"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	23	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"30-34 years"	"30-34"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	116	8348415	1.39
+	"Lung and Bronchus"	"22030"	"30-34 years"	"30-34"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	278	16694766	1.67
+	"Lung and Bronchus"	"22030"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	216	24862338	0.87
+	"Lung and Bronchus"	"22030"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	1180	85346899	1.38
+	"Lung and Bronchus"	"22030"	"30-34 years"	"30-34"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	24	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"35-39 years"	"35-39"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	34	1203824	2.82
+	"Lung and Bronchus"	"22030"	"35-39 years"	"35-39"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	266	8785090	3.03
+	"Lung and Bronchus"	"22030"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	809	19274947	4.20
+	"Lung and Bronchus"	"22030"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	450	20874612	2.16
+	"Lung and Bronchus"	"22030"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	4330	92649394	4.67
+	"Lung and Bronchus"	"22030"	"35-39 years"	"35-39"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	30	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"35-39 years"	"35-39"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	27	1155268	2.34
+	"Lung and Bronchus"	"22030"	"35-39 years"	"35-39"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	276	8026084	3.44
+	"Lung and Bronchus"	"22030"	"35-39 years"	"35-39"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	785	17096494	4.59
+	"Lung and Bronchus"	"22030"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	436	22474886	1.94
+	"Lung and Bronchus"	"22030"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	3780	93367478	4.05
+	"Lung and Bronchus"	"22030"	"35-39 years"	"35-39"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	32	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"40-44 years"	"40-44"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	111	1274681	8.71
+	"Lung and Bronchus"	"22030"	"40-44 years"	"40-44"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	535	8119223	6.59
+	"Lung and Bronchus"	"22030"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	41	932589	4.40
+	"Lung and Bronchus"	"22030"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	2904	19765691	14.69
+	"Lung and Bronchus"	"22030"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	1027	18543430	5.54
+	"Lung and Bronchus"	"22030"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	14137	102849574	13.75
+	"Lung and Bronchus"	"22030"	"40-44 years"	"40-44"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	18	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"40-44 years"	"40-44"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	72	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"40-44 years"	"40-44"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	108	1191814	9.06
+	"Lung and Bronchus"	"22030"	"40-44 years"	"40-44"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	546	7312907	7.47
+	"Lung and Bronchus"	"22030"	"40-44 years"	"40-44"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	29	846216	3.43
+	"Lung and Bronchus"	"22030"	"40-44 years"	"40-44"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	3237	17530687	18.46
+	"Lung and Bronchus"	"22030"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	971	19529364	4.97
+	"Lung and Bronchus"	"22030"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	13103	102841804	12.74
+	"Lung and Bronchus"	"22030"	"40-44 years"	"40-44"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	20	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"40-44 years"	"40-44"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	87	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"45-49 years"	"45-49"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	293	1260018	23.25
+	"Lung and Bronchus"	"22030"	"45-49 years"	"45-49"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	25	230527	10.84
+	"Lung and Bronchus"	"22030"	"45-49 years"	"45-49"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	1002	7475406	13.40
+	"Lung and Bronchus"	"22030"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	81	793363	10.21
+	"Lung and Bronchus"	"22030"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	6751	19002859	35.53
+	"Lung and Bronchus"	"22030"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	1869	15627590	11.96
+	"Lung and Bronchus"	"22030"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	33426	107275921	31.16
+	"Lung and Bronchus"	"22030"	"45-49 years"	"45-49"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	34	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"45-49 years"	"45-49"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	131	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"45-49 years"	"45-49"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	236	1163592	20.28
+	"Lung and Bronchus"	"22030"	"45-49 years"	"45-49"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	24	217297	11.04
+	"Lung and Bronchus"	"22030"	"45-49 years"	"45-49"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	1100	6607416	16.65
+	"Lung and Bronchus"	"22030"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	106	711521	14.90
+	"Lung and Bronchus"	"22030"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	8409	16747555	50.21
+	"Lung and Bronchus"	"22030"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	1862	15937222	11.68
+	"Lung and Bronchus"	"22030"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	34156	106235065	32.15
+	"Lung and Bronchus"	"22030"	"45-49 years"	"45-49"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	45	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"45-49 years"	"45-49"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	172	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"50-54 years"	"50-54"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	458	1125465	40.69
+	"Lung and Bronchus"	"22030"	"50-54 years"	"50-54"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	23	180640	12.73
+	"Lung and Bronchus"	"22030"	"50-54 years"	"50-54"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	1610	6678615	24.11
+	"Lung and Bronchus"	"22030"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	125	630653	19.82
+	"Lung and Bronchus"	"22030"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	10721	16910792	63.40
+	"Lung and Bronchus"	"22030"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	2937	12604200	23.30
+	"Lung and Bronchus"	"22030"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	59123	103781807	56.97
+	"Lung and Bronchus"	"22030"	"50-54 years"	"50-54"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	47	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"50-54 years"	"50-54"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	194	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"50-54 years"	"50-54"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	496	1029345	48.19
+	"Lung and Bronchus"	"22030"	"50-54 years"	"50-54"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	38	165992	22.89
+	"Lung and Bronchus"	"22030"	"50-54 years"	"50-54"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	1953	5756437	33.93
+	"Lung and Bronchus"	"22030"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	172	565665	30.41
+	"Lung and Bronchus"	"22030"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	15755	14657560	107.49
+	"Lung and Bronchus"	"22030"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	3571	12315825	29.00
+	"Lung and Bronchus"	"22030"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	69328	101619711	68.22
+	"Lung and Bronchus"	"22030"	"50-54 years"	"50-54"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	80	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"50-54 years"	"50-54"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	302	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"55-59 years"	"55-59"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	672	890853	75.43
+	"Lung and Bronchus"	"22030"	"55-59 years"	"55-59"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	35	128636	27.21
+	"Lung and Bronchus"	"22030"	"55-59 years"	"55-59"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	2199	5466810	40.22
+	"Lung and Bronchus"	"22030"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	174	457179	38.06
+	"Lung and Bronchus"	"22030"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	13624	13557258	100.49
+	"Lung and Bronchus"	"22030"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	3920	9735351	40.27
+	"Lung and Bronchus"	"22030"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	91154	91952736	99.13
+	"Lung and Bronchus"	"22030"	"55-59 years"	"55-59"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	64	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"55-59 years"	"55-59"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	329	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"55-59 years"	"55-59"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic"	"2135-2"	18	241498	7.45
+	"Lung and Bronchus"	"22030"	"55-59 years"	"55-59"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	795	814265	97.63
+	"Lung and Bronchus"	"22030"	"55-59 years"	"55-59"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	51	113953	44.76
+	"Lung and Bronchus"	"22030"	"55-59 years"	"55-59"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	2853	4626239	61.67
+	"Lung and Bronchus"	"22030"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	213	400114	53.23
+	"Lung and Bronchus"	"22030"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	22002	11368986	193.53
+	"Lung and Bronchus"	"22030"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	5292	9028052	58.62
+	"Lung and Bronchus"	"22030"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	114334	88477215	129.22
+	"Lung and Bronchus"	"22030"	"55-59 years"	"55-59"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	105	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"55-59 years"	"55-59"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	467	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"60-64 years "	"60-64"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	911	657947	138.46
+	"Lung and Bronchus"	"22030"	"60-64 years "	"60-64"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	29	89300	32.47
+	"Lung and Bronchus"	"22030"	"60-64 years "	"60-64"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	2623	4173527	62.85
+	"Lung and Bronchus"	"22030"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	187	331463	56.42
+	"Lung and Bronchus"	"22030"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	15954	10362896	153.95
+	"Lung and Bronchus"	"22030"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	5026	7346564	68.41
+	"Lung and Bronchus"	"22030"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	130578	76721518	170.20
+	"Lung and Bronchus"	"22030"	"60-64 years "	"60-64"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	65	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"60-64 years "	"60-64"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	410	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"60-64 years "	"60-64"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic"	"2135-2"	24	154306	15.55
+	"Lung and Bronchus"	"22030"	"60-64 years "	"60-64"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	1004	604053	166.21
+	"Lung and Bronchus"	"22030"	"60-64 years "	"60-64"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	60	75281	79.70
+	"Lung and Bronchus"	"22030"	"60-64 years "	"60-64"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	3856	3530564	109.22
+	"Lung and Bronchus"	"22030"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	238	274740	86.63
+	"Lung and Bronchus"	"22030"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	25428	8330302	305.25
+	"Lung and Bronchus"	"22030"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	7012	6455309	108.62
+	"Lung and Bronchus"	"22030"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	164246	72111393	227.77
+	"Lung and Bronchus"	"22030"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	114	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"60-64 years "	"60-64"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	628	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"65-69 years"	"65-69"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Hispanic"	"2135-2"	21	107961	19.45
+	"Lung and Bronchus"	"22030"	"65-69 years"	"65-69"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	1072	468739	228.70
+	"Lung and Bronchus"	"22030"	"65-69 years"	"65-69"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	56	62340	89.83
+	"Lung and Bronchus"	"22030"	"65-69 years"	"65-69"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	3328	3124143	106.53
+	"Lung and Bronchus"	"22030"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	219	245436	89.23
+	"Lung and Bronchus"	"22030"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	17833	7993587	223.09
+	"Lung and Bronchus"	"22030"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	6269	5620038	111.55
+	"Lung and Bronchus"	"22030"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	168656	62388288	270.33
+	"Lung and Bronchus"	"22030"	"65-69 years"	"65-69"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	100	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"65-69 years"	"65-69"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	506	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"65-69 years"	"65-69"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	1173	417148	281.20
+	"Lung and Bronchus"	"22030"	"65-69 years"	"65-69"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	78	50574	154.23
+	"Lung and Bronchus"	"22030"	"65-69 years"	"65-69"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	4634	2599489	178.27
+	"Lung and Bronchus"	"22030"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	262	189251	138.44
+	"Lung and Bronchus"	"22030"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	26836	6064769	442.49
+	"Lung and Bronchus"	"22030"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	9013	4628825	194.71
+	"Lung and Bronchus"	"22030"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	209269	56303271	371.68
+	"Lung and Bronchus"	"22030"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	136	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"65-69 years"	"65-69"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	690	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"70-74 years"	"70-74"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	945	338665	279.04
+	"Lung and Bronchus"	"22030"	"70-74 years"	"70-74"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	49	46456	105.48
+	"Lung and Bronchus"	"22030"	"70-74 years"	"70-74"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	3707	2429973	152.55
+	"Lung and Bronchus"	"22030"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	178	183253	97.13
+	"Lung and Bronchus"	"22030"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	17387	6369018	272.99
+	"Lung and Bronchus"	"22030"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	6641	4413548	150.47
+	"Lung and Bronchus"	"22030"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	186337	53818621	346.23
+	"Lung and Bronchus"	"22030"	"70-74 years"	"70-74"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	114	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"70-74 years"	"70-74"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	554	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"70-74 years"	"70-74"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Hispanic"	"2135-2"	33	62040	53.19
+	"Lung and Bronchus"	"22030"	"70-74 years"	"70-74"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	1157	279022	414.66
+	"Lung and Bronchus"	"22030"	"70-74 years"	"70-74"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	72	33577	214.43
+	"Lung and Bronchus"	"22030"	"70-74 years"	"70-74"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	5124	1906756	268.73
+	"Lung and Bronchus"	"22030"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	245	131035	186.97
+	"Lung and Bronchus"	"22030"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	24311	4426405	549.23
+	"Lung and Bronchus"	"22030"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	9523	3393381	280.63
+	"Lung and Bronchus"	"22030"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	228340	45336062	503.66
+	"Lung and Bronchus"	"22030"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	148	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"70-74 years"	"70-74"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	744	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"75-79 years"	"75-79"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	768	239360	320.86
+	"Lung and Bronchus"	"22030"	"75-79 years"	"75-79"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	48	32493	147.72
+	"Lung and Bronchus"	"22030"	"75-79 years"	"75-79"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	3404	1807740	188.30
+	"Lung and Bronchus"	"22030"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	186	132462	140.42
+	"Lung and Bronchus"	"22030"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	15045	4993203	301.31
+	"Lung and Bronchus"	"22030"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	6178	3328288	185.62
+	"Lung and Bronchus"	"22030"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	180730	48040457	376.20
+	"Lung and Bronchus"	"22030"	"75-79 years"	"75-79"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	89	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"75-79 years"	"75-79"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	551	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"75-79 years"	"75-79"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	860	175973	488.71
+	"Lung and Bronchus"	"22030"	"75-79 years"	"75-79"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	64	21520	297.40
+	"Lung and Bronchus"	"22030"	"75-79 years"	"75-79"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	4956	1316074	376.57
+	"Lung and Bronchus"	"22030"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	222	83543	265.73
+	"Lung and Bronchus"	"22030"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	19430	3061403	634.68
+	"Lung and Bronchus"	"22030"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	8866	2380917	372.38
+	"Lung and Bronchus"	"22030"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	213649	36240169	589.54
+	"Lung and Bronchus"	"22030"	"75-79 years"	"75-79"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	120	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"75-79 years"	"75-79"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	659	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"80-84 years"	"80-84"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	467	155568	300.19
+	"Lung and Bronchus"	"22030"	"80-84 years"	"80-84"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	40	20319	196.86
+	"Lung and Bronchus"	"22030"	"80-84 years"	"80-84"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	2536	1195845	212.07
+	"Lung and Bronchus"	"22030"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	116	87413	132.70
+	"Lung and Bronchus"	"22030"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	10002	3516339	284.44
+	"Lung and Bronchus"	"22030"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	4343	2220716	195.57
+	"Lung and Bronchus"	"22030"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	133582	39095815	341.68
+	"Lung and Bronchus"	"22030"	"80-84 years"	"80-84"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	65	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"80-84 years"	"80-84"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	398	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"80-84 years"	"80-84"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	480	98122	489.19
+	"Lung and Bronchus"	"22030"	"80-84 years"	"80-84"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	37	12391	298.60
+	"Lung and Bronchus"	"22030"	"80-84 years"	"80-84"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	3522	806437	436.74
+	"Lung and Bronchus"	"22030"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	119	47963	248.11
+	"Lung and Bronchus"	"22030"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	11730	1827074	642.01
+	"Lung and Bronchus"	"22030"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	5961	1437916	414.56
+	"Lung and Bronchus"	"22030"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	148385	25122990	590.63
+	"Lung and Bronchus"	"22030"	"80-84 years"	"80-84"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	82	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"80-84 years"	"80-84"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	454	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"85+ years"	"85+"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	326	136631	238.60
+	"Lung and Bronchus"	"22030"	"85+ years"	"85+"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	16	16432	97.37
+	"Lung and Bronchus"	"22030"	"85+ years"	"85+"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	1958	963574	203.20
+	"Lung and Bronchus"	"22030"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	79	74253	106.39
+	"Lung and Bronchus"	"22030"	"85+ years"	"85+"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	7127	3365184	211.79
+	"Lung and Bronchus"	"22030"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	3351	1851846	180.95
+	"Lung and Bronchus"	"22030"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	94403	39901315	236.59
+	"Lung and Bronchus"	"22030"	"85+ years"	"85+"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	50	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"85+ years"	"85+"	"Female"	"F"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	424	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"85+ years"	"85+"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	259	64516	401.45
+	"Lung and Bronchus"	"22030"	"85+ years"	"85+"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	27	9819	274.98
+	"Lung and Bronchus"	"22030"	"85+ years"	"85+"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	2349	576826	407.23
+	"Lung and Bronchus"	"22030"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	48	33126	144.90
+	"Lung and Bronchus"	"22030"	"85+ years"	"85+"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	6715	1265469	530.63
+	"Lung and Bronchus"	"22030"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	3652	953313	383.09
+	"Lung and Bronchus"	"22030"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	88304	18102317	487.80
+	"Lung and Bronchus"	"22030"	"85+ years"	"85+"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Hispanic"	"2135-2"	45	Not Applicable	Not Applicable
+	"Lung and Bronchus"	"22030"	"85+ years"	"85+"	"Male"	"M"	"Other Races and Unknown combined"	"2131-1"	"Non-Hispanic"	"2186-5"	335	Not Applicable	Not Applicable
+	"Pleura"	"22050"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	16	107275921	0.01
+	"Pleura"	"22050"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	23	106235065	0.02
+	"Pleura"	"22050"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	17	103781807	0.02
+	"Pleura"	"22050"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	22	101619711	0.02
+	"Pleura"	"22050"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	28	91952736	0.03
+	"Pleura"	"22050"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	45	88477215	0.05
+	"Pleura"	"22050"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	40	76721518	0.05
+	"Pleura"	"22050"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	54	72111393	0.07
+	"Pleura"	"22050"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	48	62388288	0.08
+	"Pleura"	"22050"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	78	56303271	0.14
+	"Pleura"	"22050"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	39	53818621	0.07
+	"Pleura"	"22050"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	92	45336062	0.20
+	"Pleura"	"22050"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	58	48040457	0.12
+	"Pleura"	"22050"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	132	36240169	0.36
+	"Pleura"	"22050"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	70	39095815	0.18
+	"Pleura"	"22050"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	138	25122990	0.55
+	"Pleura"	"22050"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	77	39901315	0.19
+	"Pleura"	"22050"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	115	18102317	0.64
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"< 1 year"	"1"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	19	3990767	0.48
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"< 1 year"	"1"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	24	5837558	0.41
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"< 1 year"	"1"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	117	14664864	0.80
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"< 1 year"	"1"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	27	6065343	0.45
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"< 1 year"	"1"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	154	15426985	1.00
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"1-4 years"	"1-4"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	33	15908167	0.21
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"1-4 years"	"1-4"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	37	22066067	0.17
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"1-4 years"	"1-4"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	131	59498357	0.22
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"1-4 years"	"1-4"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	23	16429628	0.14
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"1-4 years"	"1-4"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	30	23013396	0.13
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"1-4 years"	"1-4"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	113	62545821	0.18
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"5-9 years"	"5-9"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	31	77686472	0.04
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"5-9 years"	"5-9"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	40	81863203	0.05
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"10-14 years"	"10-14"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	18	83288890	0.02
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"10-14 years"	"10-14"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	19	25584511	0.07
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"10-14 years"	"10-14"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	41	87937808	0.05
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"15-19 years"	"15-19"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	18	86376429	0.02
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"15-19 years"	"15-19"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	29	6941880	0.42
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"15-19 years"	"15-19"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	20	22651117	0.09
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"15-19 years"	"15-19"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	90	25515649	0.35
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"15-19 years"	"15-19"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	98	91062897	0.11
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	25	84979293	0.03
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"20-24 years"	"20-24"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	38	7828512	0.49
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"20-24 years"	"20-24"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	28	20004627	0.14
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	134	26860662	0.50
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	212	87347663	0.24
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	19	81912125	0.02
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"25-29 years"	"25-29"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	22	8378616	0.26
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"25-29 years"	"25-29"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	27	17167942	0.16
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	114	26566454	0.43
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	259	82857754	0.31
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	31	84049066	0.04
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"30-34 years"	"30-34"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	35	16694766	0.21
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	82	24862338	0.33
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	201	85346899	0.24
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	42	92649394	0.05
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"35-39 years"	"35-39"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	24	17096494	0.14
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	47	22474886	0.21
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	198	93367478	0.21
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	17	19765691	0.09
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	63	102849574	0.06
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"40-44 years"	"40-44"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	17	7312907	0.23
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"40-44 years"	"40-44"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	36	17530687	0.21
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	30	19529364	0.15
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	214	102841804	0.21
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	27	19002859	0.14
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	89	107275921	0.08
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	33	16747555	0.20
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	23	15937222	0.14
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	215	106235065	0.20
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	27	16910792	0.16
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	125	103781807	0.12
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	43	14657560	0.29
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	23	12315825	0.19
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	262	101619711	0.26
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	31	13557258	0.23
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	151	91952736	0.16
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	49	11368986	0.43
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	20	9028052	0.22
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	303	88477215	0.34
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	30	10362896	0.29
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	182	76721518	0.24
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	37	8330302	0.44
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	286	72111393	0.40
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	21	7993587	0.26
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	"Hispanic"	"2135-2"	17	5620038	0.30
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	168	62388288	0.27
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	52	6064769	0.86
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	27	4628825	0.58
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	319	56303271	0.57
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	209	53818621	0.39
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	28	4426405	0.63
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	310	45336062	0.68
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	24	4993203	0.48
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	214	48040457	0.45
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	22	3061403	0.72
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	"Hispanic"	"2135-2"	18	2380917	0.76
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	265	36240169	0.73
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	193	39095815	0.49
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	188	25122990	0.75
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"85+ years"	"85+"	"Female"	"F"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	185	39901315	0.46
+	"Trachea, Mediastinum and Other Respiratory Organs"	"22060"	"85+ years"	"85+"	"Male"	"M"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	158	18102317	0.87
+"---"
+"Dataset: United States Cancer Statistics, 1999-2012 Incidence"
+"Query Parameters:"
+"Title: Cancer_data"
+"Age Group: All"
+"Cancer Sites: Respiratory System, Nose, Nasal Cavity and Middle Ear, Larynx, Lung and Bronchus, Pleura, Trachea, Mediastinum and"
+"Other Respiratory Organs"
+"Ethnicity: All"
+"Race: All"
+"Regions: All"
+"Sex: All"
+"Year: All, 1999 to 2012"
+"Group By: Cancer Sites, Age Group, Sex, Race, Ethnicity"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2012.html for more information."
+"---"
+"Query Date: Dec 14, 2015 10:51:03 AM"
+"---"
+"Suggested Citation: United States Cancer Statistics: 1999 - 2012 Incidence, WONDER Online Database. United States Department of"
+"Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2015. Accessed at"
+"http://wonder.cdc.gov/cancer-v2012.html on Dec 14, 2015 10:51:03 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Count are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"2. Age-adjusted rates are not available when results are grouped by age."
+"3. Data are suppressed if fewer than 16 cases are reported in the specific category. Data for the ""Asian / Pacific Islander"","
+"""American Indian or Alaska Native"", and the ""Other Races Combined"" race categories are suppressed at the Metropolitan"
+"Statistical Area level for populations less than 50,000 persons. Data are suppressed at the state level for certain race and"
+"ethnicity groups: 1) American Indian or Alaska Native data are suppressed at the state level for Delaware, Illinois, Kansas,"
+"Kentucky, New Jersey, New York, and South Carolina; 2) Asian or Pacific Islander data are suppressed at the state level for"
+"Delaware, Illinois, Kansas, Kentucky, and South Carolina; 3) Hispanic data are supressed at the state level for Delaware,"
+"Kentucky, Massachusetts, Pennsylvania, and South Carolina. More information:"
+"http://wonder.cdc.gov/wonder/help/cancer-v2012.html#Confidentiality."
+"4. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria."
+"5. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."
+"6. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
