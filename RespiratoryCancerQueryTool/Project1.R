@@ -19,9 +19,10 @@
 require(dplyr)
 require(plyr)
 require(ggplot2)
-cancerData = read.delim("data/resp_cancer_data.txt",
-                        header = T,
-                        sep="\t",
+colClassVector = c("character", "factor", "factor", "factor", "factor", "factor", "factor"
+                   ,"factor", "factor", "factor", "factor", "numeric", "numeric", "numeric")
+cancerData = read.delim("data/resp_cancer_data.txt",header = TRUE,
+                        sep="\t", na.strings = "Not Applicable",
                         nrows = 839)
 
 toRemove = c("Notes", "Cancer.Sites.Code",
@@ -29,9 +30,6 @@ toRemove = c("Notes", "Cancer.Sites.Code",
              "Ethnicity.Code")
 cancerData$Sex.Code = revalue(cancerData$Sex.Code, c("F" = "Female", "M" = "Male"))
 cancerData = cancerData[, !names(cancerData) %in% toRemove]
-cancerData$Count = as.numeric(cancerData$Count)
-cancerData$Crude.Rate = as.numeric(cancerData$Crude.Rate)
-cancerData$Population = as.numeric(cancerData$Population)
 summarizedData = group_by(cancerData, Cancer.Sites)
 d = list("1" = filter(summarizedData, Cancer.Sites == levels(cancerData$Cancer.Sites)[1]),
          "2" = filter(summarizedData, Cancer.Sites == levels(cancerData$Cancer.Sites)[2]),

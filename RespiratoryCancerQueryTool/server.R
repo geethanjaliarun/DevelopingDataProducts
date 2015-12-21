@@ -100,6 +100,7 @@ getCrudeRate = function(cancerSite, ageChoice, genderChoice, raceChoice, ethnici
         cancerSite = as.numeric(cancerSite)
         d1 = d[[cancerSite]]
         temp = filter(d1, Age.Group.Code == ageChoice & Sex.Code == genderChoice & Race == raceChoice & Ethnicity == ethnicityChoice)
+        print(temp$Crude.Rate)
         return(temp)
 }
 shinyServer(
